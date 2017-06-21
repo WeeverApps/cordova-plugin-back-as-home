@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-back-as-home",
+  "version": "0.1.0",
+  "description": "With this plugin you can trigger home button functionality by pressing back button",
+  "cordova": {
+    "id": "cordova-plugin-battery-status",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WeeverApps/cordova-plugin-back-as-home.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
